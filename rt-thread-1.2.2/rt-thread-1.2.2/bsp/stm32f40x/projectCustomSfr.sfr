@@ -1,0 +1,66 @@
+[Sfr]
+sfr = "GPIOB_AFRH",	"Memory",	0x40020424,	4,	base=16,	modified
+sfr = "GPIOH_OSPEEDR",	"Memory",	0x40021c08,	4,	base=16,	modified
+sfr = "TIM10_SR",	"Memory",	0x40014410,	4,	base=16,	modified
+sfr = "GPIOC_BSRR.BS2",	"Memory",	0x40020818,	4,	base=16,	modified
+sfr = "GPIOD_BSRR.BS3",	"Memory",	0x40020c18,	4,	base=16,	modified
+sfr = "GPIOE_MODER.MODER7",	"Memory",	0x40021000,	4,	base=16,	modified
+sfr = "GPIOE_OSPEEDR.OSPEEDR5",	"Memory",	0x40021008,	4,	base=16,	modified
+sfr = "GPIOE_PUPDR.PUPDR15",	"Memory",	0x4002100c,	4,	base=16,	modified
+sfr = "GPIOE_ODR.ODR3",	"Memory",	0x40021014,	4,	base=16,	modified
+sfr = "GPIOE_LCKR.LCK0",	"Memory",	0x4002101c,	4,	base=16,	modified
+sfr = "GPIOE_AFRL.AFRL6",	"Memory",	0x40021020,	4,	base=16,	modified
+sfr = "GPIOF_MODER",	"Memory",	0x40021400,	4,	base=16,	modified
+sfr = "GPIOF_OTYPER.OT8",	"Memory",	0x40021404,	4,	base=16,	modified
+sfr = "GPIOF_OSPEEDR.OSPEEDR5",	"Memory",	0x40021408,	4,	base=16,	modified
+sfr = "GPIOF_OSPEEDR.OSPEEDR11",	"Memory",	0x40021408,	4,	base=16,	modified
+sfr = "GPIOF_IDR.IDR7",	"Memory",	0x40021410,	4,	base=16,	modified
+sfr = "GPIOF_ODR",	"Memory",	0x40021414,	4,	base=16,	modified
+sfr = "GPIOF_ODR.ODR12",	"Memory",	0x40021414,	4,	base=16,	modified
+sfr = "GPIOF_ODR.ODR13",	"Memory",	0x40021414,	4,	base=16,	modified
+sfr = "GPIOF_BSRR.BS5",	"Memory",	0x40021418,	4,	base=16,	modified
+sfr = "GPIOF_LCKR.LCK14",	"Memory",	0x4002141c,	4,	base=16,	modified
+sfr = "GPIOG_OSPEEDR.OSPEEDR13",	"Memory",	0x40021808,	4,	base=16,	modified
+sfr = "GPIOG_PUPDR.PUPDR2",	"Memory",	0x4002180c,	4,	base=16,	modified
+sfr = "GPIOG_ODR.ODR5",	"Memory",	0x40021814,	4,	base=16,	modified
+sfr = "GPIOG_BSRR.BS5",	"Memory",	0x40021818,	4,	base=16,	modified
+sfr = "GPIOG_LCKR.LCK11",	"Memory",	0x4002181c,	4,	base=16,	modified
+sfr = "GPIOH_OSPEEDR.OSPEEDR3",	"Memory",	0x40021c08,	4,	base=16,	modified
+sfr = "GPIOH_PUPDR.PUPDR2",	"Memory",	0x40021c0c,	4,	base=16,	modified
+sfr = "GPIOH_ODR.ODR8",	"Memory",	0x40021c14,	4,	base=16,	modified
+sfr = "GPIOH_BSRR.BR12",	"Memory",	0x40021c18,	4,	base=16,	modified
+sfr = "GPIOH_LCKR.LCK3",	"Memory",	0x40021c1c,	4,	base=16,	modified
+sfr = "GPIOH_AFRL.AFRL6",	"Memory",	0x40021c20,	4,	base=16,	modified
+sfr = "GPIOI_MODER.MODER12",	"Memory",	0x40022000,	4,	base=16,	modified
+sfr = "GPIOI_PUPDR.PUPDR6",	"Memory",	0x4002200c,	4,	base=16,	modified
+sfr = "GPIOI_PUPDR.PUPDR8",	"Memory",	0x4002200c,	4,	base=16,	modified
+sfr = "GPIOI_IDR.IDR12",	"Memory",	0x40022010,	4,	base=16,	modified
+sfr = "GPIOI_BSRR.BS7",	"Memory",	0x40022018,	4,	base=16,	modified
+sfr = "GPIOI_LCKR.LCK15",	"Memory",	0x4002201c,	4,	base=16,	modified
+sfr = "SYSCFG_MEMRMP.MEM_MODE",	"Memory",	0x40013800,	4,	base=16,	modified
+sfr = "SYSCFG_EXTICR2.EXTI1",	"Memory",	0x4001380c,	4,	base=16,	modified
+sfr = "SYSCFG_EXTICR4.EXTI1",	"Memory",	0x40013814,	4,	base=16,	modified
+sfr = "DMA1_LISR",	"Memory",	0x40026000,	4,	base=16,	modified
+sfr = "DMA1_LISR.FEIF1",	"Memory",	0x40026000,	4,	base=16,	modified
+sfr = "DMA1_HIFCR.CTCIF4",	"Memory",	0x4002600c,	4,	base=16,	modified
+sfr = "DMA1_S0CR.EN",	"Memory",	0x40026010,	4,	base=16,	modified
+sfr = "IWDG_SR",	"Memory",	0x4000300c,	2,	base=16,	modified
+sfr = "TIM1_CR2.CCPC",	"Memory",	0x40010004,	4,	base=16,	modified
+sfr = "TIM1_SMCR.ETF",	"Memory",	0x40010008,	4,	base=16,	modified
+sfr = "TIM1_CCMR2",	"Memory",	0x4001001c,	4,	base=16,	modified
+sfr = "TIM1_CCER.CC1E",	"Memory",	0x40010020,	4,	base=16,	modified
+sfr = "TIM1_RCR",	"Memory",	0x40010030,	4,	base=16,	modified
+sfr = "TIM1_BDTR",	"Memory",	0x40010044,	4,	base=16,	modified
+sfr = "TIM8_SMCR.ETPS",	"Memory",	0x40010408,	4,	base=16,	modified
+sfr = "TIM8_DIER.CC4IE",	"Memory",	0x4001040c,	4,	base=16,	modified
+sfr = "TIM8_SR.BIF",	"Memory",	0x40010410,	4,	base=16,	modified
+sfr = "TIM8_EGR.UG",	"Memory",	0x40010414,	4,	base=16,	modified
+sfr = "TIM8_CCR4.CCR",	"Memory",	0x40010440,	4,	base=16,	modified
+sfr = "TIM8_BDTR.MOE",	"Memory",	0x40010444,	4,	base=16,	modified
+sfr = "TIM8_DMAR.DMAB",	"Memory",	0x4001044c,	4,	base=16,	modified
+sfr = "CAN_F10R1.FB26",	"Memory",	0x40006690,	4,	base=16,	modified
+sfr = "UART4_BRR",	"Memory",	0x40004c08,	4,	base=16,	modified
+
+
+[SfrGroupInfo]
+group = "Custom", "GPIOB_AFRH", "GPIOH_OSPEEDR", "TIM10_SR"
